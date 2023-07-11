@@ -8,6 +8,8 @@ An easy and quick command-inline application to generate a clean and Professiona
 
 You can access more badges and their purposes at [shields.io](https://shields.io)
 
+Find the video tutorial on this link [tutorial](https://youtu.be/h3XkPiNAVCs)
+
 ## Table of Contents
   * [Installation](#installation)
   * [Contribution](#contribution)
